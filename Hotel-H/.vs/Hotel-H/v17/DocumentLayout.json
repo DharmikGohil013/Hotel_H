@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\LevelProgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\LevelProgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\MoneyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CustomerSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\CustomerSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyCollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\MoneyCollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\SplashScreenManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\SplashScreenManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelProgress.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\LevelProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelProgress.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\LevelProgress.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:19:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv3MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:16:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerSpawner.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CustomerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CustomerSpawner.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CustomerSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\CustomerSpawner.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:59:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoneyCollect.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoneyCollect.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyCollect.cs",
+              "RelativeToolTip": "Assets\\Script\\MoneyCollect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:45:14.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoneyManager.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoneyManager.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\MoneyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MoneyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:43:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SplashScreenManager.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\SplashScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SplashScreenManager.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\SplashScreenManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SplashScreenManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:49:48.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:31:47.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraFollow.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:41:19.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Customer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Customer.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Customer.cs",
+              "RelativeToolTip": "Assets\\Script\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:02:46.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Room.cs",
+              "ToolTip": "D:\\Git Hub\\Game Dev \u0026 Projects\\Hotel-H\\Assets\\Script\\Room.cs",
+              "RelativeToolTip": "Assets\\Script\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:03:37.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
