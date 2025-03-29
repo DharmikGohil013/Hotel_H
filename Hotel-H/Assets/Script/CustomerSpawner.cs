@@ -1,35 +1,29 @@
 using UnityEngine;
-using System.Collections.Generic;
+using System.Collections;
 
-public class CustomerSpawner : MonoBehaviour
+public class CustomerSpawner : MonoBehaviour // Renamed to avoid confusion
 {
-    public GameObject customerPrefab; // Reference to the customer prefab
-    public Transform spawnPoint; // Where customers will appear
-    public int maxQueueSize = 5; // Max people in line
-    private Queue<GameObject> customerQueue = new Queue<GameObject>();
+    public GameObject customerPrefab;
+    public Transform spawnPoint;
+    public float spawnDelay = 10f;
 
     void Start()
     {
-        SpawnCustomer();
+        StartCoroutine(SpawnCustomers());
     }
 
-    void SpawnCustomer()
+    IEnumerator SpawnCustomers()
     {
-        if (customerQueue.Count < maxQueueSize)
+        while (true)
         {
-            GameObject newCustomer = Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
-            customerQueue.Enqueue(newCustomer);
-            newCustomer.GetComponent<Customer>().SetSpawner(this);
+            GameObject customerObj = Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
+            // Ensure customerPrefab has CustomerBehaviour component
+            CustomerBehaviour customer = customerObj.GetComponent<CustomerBehaviour>();
+            if (customer == null)
+            {
+                Debug.LogError("Customer prefab is missing CustomerBehaviour component!");
+            }
+            yield return new WaitForSeconds(spawnDelay);
         }
-    }
-
-    public void RemoveCustomer()
-    {
-        if (customerQueue.Count > 0)
-        {
-            customerQueue.Dequeue();
-        }
-
-        Invoke("SpawnCustomer", 2f); // Delay before spawning a new one
     }
 }

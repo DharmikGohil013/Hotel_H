@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro; // Import TextMeshPro for UI text
 
 public class MoneyManager : MonoBehaviour
@@ -8,6 +8,7 @@ public class MoneyManager : MonoBehaviour
 
     void Start()
     {
+        //ResetMoney();
         // Load saved money
         money = PlayerPrefs.GetInt("", 0);
         UpdateMoneyUI();
@@ -24,5 +25,12 @@ public class MoneyManager : MonoBehaviour
     void UpdateMoneyUI()
     {
         moneyText.text = money.ToString();
+    }
+    public void ResetMoney()
+    {
+        money = 0;
+        PlayerPrefs.SetInt("Money", 0);
+        PlayerPrefs.Save();
+        UpdateMoneyUI();
     }
 }

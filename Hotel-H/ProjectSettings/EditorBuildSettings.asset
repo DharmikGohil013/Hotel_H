@@ -9,8 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/SplashScene.unity
     guid: 7aecefa7e88c12146b86735c919fe255
   - enabled: 1
-    path: Assets/Scenes/GameScenc.unity
-    guid: c850ee8c3b14cc8459e7e186857cf567
+    path: Assets/Scenes/HotelPriview.unity
+    guid: f2130c5359f03924cba98be29835b167
+  - enabled: 1
+    path: Assets/Scenes/traininggame.unity
+    guid: 12385ee61a6f42c46a728f885914e6ea
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: a0d71d73eb345a94a8d89395b8e1af6a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0c3229380bc22f049a6fa3edd7f0e26b,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 2f81195ba7536c24a87990e2a0ff7f14, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 8fc63507374568e45b9673db7fae3e6f, type: 2}
