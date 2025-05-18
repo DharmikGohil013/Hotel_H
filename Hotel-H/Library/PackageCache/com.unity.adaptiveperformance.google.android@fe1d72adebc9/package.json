@@ -1,0 +1,45 @@
+{
+  "name": "com.unity.adaptiveperformance.google.android",
+  "displayName": "Adaptive Performance Android",
+  "version": "5.1.3",
+  "unity": "2022.3",
+  "description": "The Adaptive Performance Android package provides the Adaptive Performance subsystem for Android platforms and works in combination with Adaptive Performance. \n\nBy installing this package, you agree to the terms and conditions of the Unity End User License Agreement found under \"View licenses\" above.",
+  "keywords": [
+    "mobile",
+    "adaptive",
+    "performance",
+    "utility",
+    "utilities",
+    "core",
+    "google",
+    "ap",
+    "provider",
+    "subsystem",
+    "gamesdk",
+    "VRR",
+    "indexer",
+    "scaler",
+    "boost",
+    "profiles",
+    "cluster",
+    "clusterinfo"
+  ],
+  "dependencies": {
+    "com.unity.modules.subsystems": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.adaptiveperformance": "5.1.0"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n* Fixed problem with \"Exception: Field SDK_INT or type signature not found\" when using Editor PlayMode."
+  },
+  "upmCi": {
+    "footprint": "f6428593743cab49a3daae091f392b11a6e3bd5f"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.adaptiveperformance.google.android@5.1/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.adaptiveperformance.google.android.git",
+    "type": "git",
+    "revision": "a3544f0df9466fe863d50823b7f7f3abfe2129dd"
+  },
+  "_fingerprint": "fe1d72adebc9ba5916b7a544763244768b5751ef"
+}

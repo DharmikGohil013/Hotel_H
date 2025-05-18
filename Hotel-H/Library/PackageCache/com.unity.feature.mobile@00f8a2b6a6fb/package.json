@@ -1,0 +1,16 @@
+{
+  "name": "com.unity.feature.mobile",
+  "displayName": "Mobile",
+  "version": "1.0.0",
+  "type": "feature",
+  "_upm": {
+    "quickstart": "https://docs.unity3d.com/Documentation/Manual/MobileFeature.html"
+  },
+  "description": "Optimize your apps for mobile devices and provide a performant experience for your users. Includes utilities for debugging on device and support for notifications.",
+  "dependencies": {
+    "com.unity.mobile.android-logcat": "default",
+    "com.unity.adaptiveperformance": "default",
+    "com.unity.mobile.notifications": "default"
+  },
+  "_fingerprint": "00f8a2b6a6fb9c01b3e6d2ada669d3dc43945443"
+}
